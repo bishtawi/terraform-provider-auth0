@@ -3,8 +3,8 @@ package auth0
 import (
 	"os"
 
+	"github.com/bishtawi/auth0/management"
 	"github.com/hashicorp/terraform/helper/schema"
-	"gopkg.in/auth0.v1/management"
 )
 
 func Provider() *schema.Provider {

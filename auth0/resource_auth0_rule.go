@@ -3,10 +3,10 @@ package auth0
 import (
 	"regexp"
 
+	"github.com/bishtawi/auth0"
+	"github.com/bishtawi/auth0/management"
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/hashicorp/terraform/helper/validation"
-	"gopkg.in/auth0.v1"
-	"gopkg.in/auth0.v1/management"
 )
 
 var ruleNameRegexp = regexp.MustCompile("^[^\\s-][\\w -]+[^\\s-]$")

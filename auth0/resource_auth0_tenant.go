@@ -1,9 +1,9 @@
 package auth0
 
 import (
+	"github.com/bishtawi/auth0/management"
 	"github.com/hashicorp/terraform/helper/resource"
 	"github.com/hashicorp/terraform/helper/schema"
-	"gopkg.in/auth0.v1/management"
 )
 
 func newTenant() *schema.Resource {
