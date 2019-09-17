@@ -1,3 +1,20 @@
+## v0.2.0-1 (September 17, 2019)
+
+ENHANCEMENTS:
+
+* resource/auth0_connection: Add `connection`
+* resource/auth0_resource_server: Add `enforce_policies`
+* resource/auth0_resource_server: Add `token_dialect`
+
+BUG FIXES:
+
+* resource/auth0_connection: Fix `password_dictionary`
+
+NOTES:
+
+* Update `go` to v1.13
+* Update `go-auth0` to v1.2.5-1
+
 ## v0.2.0 (June 27, 2019)
 
 ENHANCEMENTS:
