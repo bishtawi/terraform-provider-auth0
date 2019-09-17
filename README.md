@@ -1,15 +1,13 @@
 Auth0 Terraform Provider
 ========================
 
-[![Build Status](https://travis-ci.org/alexkappa/terraform-provider-auth0.svg?branch=master)](https://travis-ci.org/alexkappa/terraform-provider-auth0)
-[![Maintainability](https://api.codeclimate.com/v1/badges/9c49c10286123b716c79/maintainability)](https://codeclimate.com/github/alexkappa/terraform-provider-auth0/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/9c49c10286123b716c79/test_coverage)](https://codeclimate.com/github/alexkappa/terraform-provider-auth0/test_coverage)
+![](https://github.com/bishtawi/terraform-provider-auth0/workflows/ci/badge.svg)
 
 Requirements
 ------------
 
 -	[Terraform](https://www.terraform.io/downloads.html) 0.11.x
--	[Go](https://golang.org/doc/install) 1.10 (to build the provider plugin)
+-	[Go](https://golang.org/doc/install) 1.13 (to build the provider plugin)
 
 Building The Provider
 ---------------------
