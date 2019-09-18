@@ -1,3 +1,14 @@
+## v0.2.0-2 (September 18, 2019)
+
+BUG FIXES:
+
+* resource/auth0_user: Fix `user_metadata` and `app_metadata`
+* resource/auth0_user: Make `password` sensitive
+
+NOTES:
+
+* Add example of auth0_tenant resource
+
 ## v0.2.0-1 (September 17, 2019)
 
 ENHANCEMENTS:
