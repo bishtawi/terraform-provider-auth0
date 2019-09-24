@@ -1,3 +1,10 @@
+## v0.2.0-4 (September 24, 2019)
+
+BUG FIXES:
+
+* resource/auth0_connection: Fix `password_dictionary`
+* resource/auth0_tenant: Fix `flags`
+
 ## v0.2.0-3 (September 23, 2019)
 
 ENHANCEMENTS:
