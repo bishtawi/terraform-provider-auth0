@@ -1,3 +1,9 @@
+## v0.2.0-5 (September 24, 2019)
+
+BUG FIXES:
+
+* resource/auth0_tenant: Remove read-only attributes from `flags`
+
 ## v0.2.0-4 (September 24, 2019)
 
 BUG FIXES:
