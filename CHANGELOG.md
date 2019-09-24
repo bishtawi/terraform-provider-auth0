@@ -19,7 +19,7 @@ NOTES:
 
 ENHANCEMENTS:
 
-* resource/auth0_connection: Add `connection`
+* resource/auth0_connection: Add `password_complexity_options`
 * resource/auth0_resource_server: Add `enforce_policies`
 * resource/auth0_resource_server: Add `token_dialect`
 
