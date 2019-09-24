@@ -1,3 +1,9 @@
+## v0.2.0-3 (September 23, 2019)
+
+ENHANCEMENTS:
+
+* resource/auth0_tenant: Add `flags`, `universal_login` and `idle_session_lifetime`
+
 ## v0.2.0-2 (September 18, 2019)
 
 BUG FIXES:
