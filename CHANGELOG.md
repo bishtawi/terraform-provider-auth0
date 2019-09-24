@@ -1,3 +1,9 @@
+## v0.2.0-6 (September 24, 2019)
+
+BUG FIXES:
+
+* resource/auth0_tenant: Fix boolean parsing in `flags`
+
 ## v0.2.0-5 (September 24, 2019)
 
 BUG FIXES:
