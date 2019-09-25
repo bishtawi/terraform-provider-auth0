@@ -1,3 +1,9 @@
+## v0.2.0-7 (September 24, 2019)
+
+BUG FIXES:
+
+* resource/auth0_email_template: Fix optionality of fields
+
 ## v0.2.0-6 (September 24, 2019)
 
 BUG FIXES:
