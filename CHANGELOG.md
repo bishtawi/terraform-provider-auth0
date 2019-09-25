@@ -1,3 +1,9 @@
+## v0.2.0-8 (September 25, 2019)
+
+BUG FIXES:
+
+* resource/auth0_tenant: Fix `flags`
+
 ## v0.2.0-7 (September 24, 2019)
 
 BUG FIXES:
